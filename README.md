@@ -1,5 +1,5 @@
-# My-game---School-Rush
-🎮 My Game – School Rush:
+# School-Rush
+🎮 My Game - School Rush:
 
 A game I developed and published on itch.io!
 
