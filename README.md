@@ -26,6 +26,3 @@ Language: C#
 🔗 Links
 [Play on itch.io]([(https://cnbarrhaven.itch.io/school-rush])
 Note: The original source files are no longer available. This repository serves as a showcase of the published game and does not contain its source code.
-🔗 Links
-Play on itch.io
-Note: The original source files are no longer available. This repository serves as a showcase of the published game and does not contain its source code.
