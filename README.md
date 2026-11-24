@@ -24,5 +24,5 @@ Language: C#
 -Publishing a game on itch.io
 
 🔗 Links:
-[Play on itch.io]((https://cnbarrhaven.itch.io/school-rush)
+[Play on itch.io](https://cnbarrhaven.itch.io/school-rush)
 Note: The original source files are no longer available. This repository serves as a showcase of the published game and does not contain its source code.
